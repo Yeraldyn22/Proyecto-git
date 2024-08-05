@@ -1,0 +1,89 @@
+*{
+    background-color:rgb(144, 211, 255);
+}
+h1{
+font-size: 22px;
+color: rgb(94, 0, 64);
+text-align: center;
+}
+h2{
+    font-size: 22px;
+    color: rgb(94, 0, 64);
+    text-align: center; 
+}
+h3{
+    font-size: 22px;
+    color: rgb(94, 0, 64);
+    text-align: center; 
+}
+body{
+    margin: 0 7%;
+}
+.imagen1 {
+    width: 70%;
+    height: 5%;
+    margin: 0 ;
+    margin-left: 24%;
+ 
+}
+
+.imagen2 {
+    width: 70%;
+    height: 5%;
+    margin: 0 ;
+    margin-left: 26%;
+ 
+}
+.imagen3{
+    width: 70%;
+    height: 5%;
+    margin: 0 ;
+    margin-left: 33%; 
+}
+
+p{
+    font-size: 28px;
+}
+
+
+.img3 img{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    margin-left: 28%;
+}
+summary{
+    font-size: 25px;
+}
+ul{
+    font-size: 22px
+}
+.img img{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
+.imagen4{
+    width: 80%;
+    height: 80%;
+    margin: 0 ;
+    margin-left: 10%; 
+}
+.imagen5{
+    width: 80%;
+    height: 80%;
+    margin: 0 ;
+    margin-left: 10%;   
+}
+.imagen6{
+    width: 70%;
+    height: 70%;
+    margin: 0 ;
+    margin-left: 6%;   
+}
+.imagen7{
+    width: 70%;
+    height: 70%;
+    margin: 0 ;
+    margin-left: 6%;   
+}
