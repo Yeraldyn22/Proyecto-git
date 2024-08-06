@@ -1,5 +1,9 @@
 *{
     background-color:rgb(144, 211, 255);
+   
+}
+ul{
+    text-align:left ;
 }
 h1{
 font-size: 22px;
@@ -31,7 +35,7 @@ body{
     width: 70%;
     height: 5%;
     margin: 0 ;
-    margin-left: 26%;
+    margin-left: 14%;
  
 }
 .imagen3{
@@ -67,23 +71,38 @@ ul{
     width: 80%;
     height: 80%;
     margin: 0 ;
-    margin-left: 10%; 
+    margin-left: 20%; 
 }
 .imagen5{
     width: 80%;
     height: 80%;
     margin: 0 ;
-    margin-left: 10%;   
+    margin-left: 30%;   
 }
 .imagen6{
     width: 70%;
     height: 70%;
     margin: 0 ;
-    margin-left: 6%;   
+    margin-left: 27%;   
 }
 .imagen7{
     width: 70%;
     height: 70%;
     margin: 0 ;
-    margin-left: 6%;   
+    margin-left: 27%;   
+}
+.imagen8{
+    width: 70%;
+    height: 70%;
+    margin: 0 ;
+    margin-left: 26%;  
+}
+.imagen9{
+    width: 70%;
+    height: 70%;
+    margin: 0 ;
+    margin-left: 27%;  
+}
+li{
+    border: solid;
 }
